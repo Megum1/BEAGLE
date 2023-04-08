@@ -15,7 +15,8 @@ and transforming function with complex distribution works well on WaNet trigger.
 
 `python decomposition.py --dataset cifar10 --network vgg11 --attack wanet --func transform --func_option complex --epochs 1000`
 
-==============================================================================================================================
+======================================================================================
+
 Besides we also provide enhanced ABS to deal with patch triggers and complex triggers.
 
 `abs_beagle_mask_binomial.py`
