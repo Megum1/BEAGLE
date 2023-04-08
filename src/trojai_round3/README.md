@@ -6,4 +6,4 @@
 
 `abs_beagle_filter.py`: Provide the BEAGLE-enhanced ABS to scan instagram filter attacked models. Result will also be outputed in `result.txt`.
 
-`synthesis_scanner.py`: Provide the summarized polygon/filter trigger distributions (polygon size/filter parameters) which help build enhaced scanner for ABS.
+`synthesis_scanner.py`: Provide the summarized polygon/filter trigger distributions (polygon size/filter parameters) which help build enhanced scanner for ABS.
