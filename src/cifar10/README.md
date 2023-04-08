@@ -1,3 +1,5 @@
+# Attack Decomposition
+
 `decomposition.py`: Provide attack decomposition on CIFAR-10 dataset.
 
 There are two options for argument **--func**, 'mask' and 'transform', where 'mask' denotes using patch function to extract the trigger
@@ -15,7 +17,9 @@ and transforming function with complex distribution works well on WaNet trigger.
 
 `python decomposition.py --dataset cifar10 --network vgg11 --attack wanet --func transform --func_option complex --epochs 1000`
 
-======================================================================================
+One can refer to https://github.com/Gwinhen/BackdoorVault for more attacks.
+
+# Scanner Synthesis
 
 Besides we also provide enhanced ABS to deal with patch triggers and complex triggers.
 
