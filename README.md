@@ -10,14 +10,14 @@ We provide supplementary page and source code in `src`.
 
 ## Reference
 If you find this repo helpful, please cite our paper.
-`
+```
 @article{cheng2023beagle,
   title={BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense},
   author={Cheng, Siyuan and Tao, Guanhong and Liu, Yingqi and An, Shengwei and Xu, Xiangzhe and Feng, Shiwei and Shen, Guangyu and Zhang, Kaiyuan and Xu, Qiuling and Ma, Shiqing and others},
   journal={arXiv preprint arXiv:2301.06241},
   year={2023}
 }
-`
+```
 
 ## Contact
 Free to contact the author *cheng535@purdue.edu*.
