@@ -13,7 +13,7 @@ If you find this repo helpful, please cite our paper.
 ```
 @article{cheng2023beagle,
   title={BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense},
-  author={Cheng, Siyuan and Tao, Guanhong and Liu, Yingqi and An, Shengwei and Xu, Xiangzhe and Feng, Shiwei and Shen, Guangyu and Zhang, Kaiyuan and Xu, Qiuling and Ma, Shiqing and others},
+  author={Cheng, Siyuan and Tao, Guanhong and Liu, Yingqi and An, Shengwei and Xu, Xiangzhe and Feng, Shiwei and Shen, Guangyu and Zhang, Kaiyuan and Xu, Qiuling and Ma, Shiqing and Zhang, Xiangyu},
   journal={arXiv preprint arXiv:2301.06241},
   year={2023}
 }
