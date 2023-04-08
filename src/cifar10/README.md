@@ -17,7 +17,7 @@ and transforming function with complex distribution works well on WaNet trigger.
 
 `python decomposition.py --dataset cifar10 --network vgg11 --attack wanet --func transform --func_option complex --epochs 1000`
 
-One can refer to https://github.com/Gwinhen/BackdoorVault for more attacks.
+One can find more backdoor attacks in https://github.com/Gwinhen/BackdoorVault.
 
 # Scanner Synthesis
 
