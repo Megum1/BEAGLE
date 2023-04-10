@@ -183,7 +183,7 @@ def forensic(args, preeval=True):
         print(f'Pre-evaluation of samples -> ACC: {acc}, ASR: {asr}, n_sample: {n_sample}')
 
     # Load pre-trained stylegan
-    stylegan = StyleGAN(DEVICE, cifar=True)
+    stylegan = StyleGAN(DEVICE)
 
     # Initialization of parameters
     mapping_labels = nn.functional.one_hot(torch.tensor(np.arange(10)), num_classes=10).float().to(DEVICE)
